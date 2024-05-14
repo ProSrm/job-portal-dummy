@@ -1,8 +1,10 @@
-# React + Vite
+# JOB-PORTAL DUMMY .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project created using react js + Tailwind css + Json server .
+dummy application which can perform task like add job , edit job , delete job , access all jobs .
+follow below link for the UI part
+https://job-portal-dummy.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Server will not work due to it is created using json server it can perfectly work locally .
+hooks + packages used :
+usestate ,useEffect , useLoaderData , useNavigate , useParams, react-toastify .
